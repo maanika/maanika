@@ -1,7 +1,7 @@
 # maanika
 
 ## A bit about me
-Systems Programmer deeply passionate about embedded systems, low-level programming, kernel development and operating systems. I love the challenge and fun that comes with building great software.
+Hi! I am systems programmer with a passion for embedded systems, low-level programming, operating systems and kernel development. I enjoy solving challenging problems and building reliable software that runs close to the hardware.
 
 ## Skills
 
