@@ -4,7 +4,8 @@
 
 ---
 ## A bit about me
-Hi! I am a systems programmer with a passion for embedded systems, low-level programming, operating systems, and kernel development. I enjoy solving challenging problems and building reliable software that runs close to the hardware.
+Hi! I am a systems programmer with a passion for embedded systems, low-level programming, operating systems, and kernel development.
+I enjoy solving challenging problems and building reliable software that runs close to the hardware.
 
 ---
 ## Tech Stack
@@ -18,6 +19,6 @@ Hi! I am a systems programmer with a passion for embedded systems, low-level pro
 ## The vibe
 Code, have fun, and enjoy life!
 
-<p align="center">
+<p align="left">
   <img src="togepi.gif" width="120" alt="Togepi">
 </p>
